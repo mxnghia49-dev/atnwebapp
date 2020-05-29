@@ -12,11 +12,11 @@
 </div>
 
 <div class="navbar">
-  <a href="index.html">Home</a>
-  <a href="new.html">New Procduct</a>
-  <a href="s2.html">Second Hand</a>
-  <button class="right" onclick="window.location.href='register.html'"><b>Register Or Login</b></button>
-  <button class="right" onclick="window.location.href='cart.html'"><b>Cart</b></button>
+  <a href="index.php">Home</a>
+  <a href="new.php">New Procduct</a>
+  <a href="s2.php">Second Hand</a>
+  <button class="right" onclick="window.location.href='register.php'"><b>Register Or Login</b></button>
+  <button class="right" onclick="window.location.href='cart.php'"><b>Cart</b></button>
 </div>
 </head>
 <body>
