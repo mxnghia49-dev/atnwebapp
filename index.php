@@ -110,7 +110,7 @@
 	<div class="rowside">
   <div class="columnside">
 	<div class="fake2">
-    <img src="img/laptop1.jpg" alt="prd" style="width:100%">
+    <img src="img/Laptop1.jpg" alt="prd" style="width:100%">
 	<p>Name: Asus ROG Gaming Laptop</p>
 	<p>Producer: Asus</p>
 	<p>Type: Laptop Gaming</p>
