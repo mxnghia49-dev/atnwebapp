@@ -3,7 +3,7 @@
 <title>Pc Accessories Shopping Mall</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="myweb.css">
+<link rel="stylesheet" href="./myweb.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 <div class="header">
   <h1>PC Accessories Shopping Mall</h1>
@@ -15,8 +15,7 @@
   <a href="index.php">Home</a>
   <a href="new.php">New Procduct</a>
   <a href="s2.php">Second Hand</a>
-  <button class="right" onclick="window.location.href='register.php'"><b>Register Or Login</b></button>
-  <button class="right" onclick="window.location.href='cart.php'"><b>Cart</b></button>
+  <a href="adminpage.php" class="right">ADMIN PAGES</a>
 </div>
 </head>
 <body>

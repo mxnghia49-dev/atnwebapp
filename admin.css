@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.grid-view {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 4rem;
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 6rem;
+}
+
+.view {
+    background-color: lightgray;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 5px;
+}
+
+.form-type {
+    display: flex;
+    flex-direction: column;
+}

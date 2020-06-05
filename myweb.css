@@ -12,7 +12,7 @@ body {
 .header {
   padding: 20px;
   text-align: left;
-  background: powderblue;
+  background: gray;
   color: white;
 }
 
@@ -42,9 +42,8 @@ body {
 
 
 /* Right-aligned link */
-.navbar button.right {
-	background-	color: green;
-	border:solid;
+.navbar a.right {
+	
   float: right;
   height: 50px;
   text-align: center;

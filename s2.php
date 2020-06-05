@@ -3,7 +3,7 @@
 <title>Pc Accessories Shopping Mall</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="myweb.css">
+<link rel="stylesheet" href="./myweb.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 <div class="header">
   <h1>PC Accessories Shopping Mall</h1>
@@ -15,8 +15,7 @@
   <a href="index.php">Home</a>
   <a href="new.php">New Procduct</a>
   <a href="s2.php">Second Hand</a>
-  <button class="right" onclick="window.location.href='register.php'"><b>Register or Login	</b></button>
-  <button class="right" onclick="window.location.href='cart.php'"><b>Cart</b></button>
+  <a href="./adminpage.php" class="right">ADMIN PAGES</a>
 </div>
 </head>
 <body>
@@ -24,7 +23,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img/s2.1.jpg" alt="laptop" style="width:100%" height=50%>
+      <img src="./img/s2.1.jpg" alt="laptop" style="width:100%" height=50%>
       <div class="container">
         <p>PC Case</p>
         <p>Old case for pc</p>
@@ -37,7 +36,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="img/s2.2.jpg" alt="mouse" style="width:100%" height=50%>
+      <img src="./img/s2.2.jpg" alt="mouse" style="width:100%" height=50%>
       <div class="container">
         <p>Old Screen</p>
         <p>Old screen with good price</p>
@@ -50,7 +49,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="img/s2.3.png" alt="mainb" style="width:80%" height=50%>
+      <img src="./img/s2.3.png" alt="mainb" style="width:80%" height=50%>
       <div class="container">
         <p>PC Case</p>
         <p>PC case new 99% with full accessories</p>
@@ -65,7 +64,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img/s2.4.jpg" alt="laptop" style="width:100%">
+      <img src="./img/s2.4.jpg" alt="laptop" style="width:100%">
       <div class="container">
         <p>Screen</p>
         <p>Pass screen stil active</p>
@@ -82,7 +81,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img/img_avatar.png" alt="avatar" class="avatar" style="width:100%">
+      <img src="./img/img_avatar.png" alt="avatar" class="avatar" style="width:100%">
       <div class="container">
         <h2>Mai Xuan Nghia</h2>
         <p class="title">Creater</p>
